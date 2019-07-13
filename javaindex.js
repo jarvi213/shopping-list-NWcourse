@@ -17,6 +17,7 @@ $(function addMe() {
         </div>
       </li>`
       );
+      $('#js-shopping-list-form')[0].reset();
     });
 });
 //here be a function for checking 
